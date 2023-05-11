@@ -1,0 +1,49 @@
+{
+    "objects": [
+        {
+            "district_name": "Brampton West",
+            "url": "https://www.ourcommons.ca/Members/en/kamal-khera(88705)",
+            "extra": {
+                "preferred_languages": [
+                    "English"
+                ]
+            },
+            "last_name": "Khera",
+            "elected_office": "MP",
+            "representative_set_name": "House of Commons",
+            "party_name": "Liberal",
+            "related": {
+                "representative_set_url": "/representative-sets/house-of-commons/",
+                "boundary_url": "/boundaries/federal-electoral-districts/35012/"
+            },
+            "personal_url": "",
+            "photo_url": "https://www.ourcommons.ca/Content/Parliamentarians/Images/OfficialMPPhotos/43/KheraKamal_Lib.jpg",
+            "source_url": "https://www.ourcommons.ca/Members/en/search?caucusId=all&province=all",
+            "first_name": "Kamal",
+            "email": "Kamal.Khera@parl.gc.ca",
+            "name": "Kamal Khera",
+            "offices": [
+                {
+                    "type": "legislature",
+                    "postal": "House of Commons\nOttawa ON  K1A 0A6",
+                    "fax": "1 613 992-0800",
+                    "tel": "1 613 992-0778"
+                },
+                {
+                    "type": "constituency",
+                    "postal": "Main office - Brampton\n35 Van Kirk Drive\nSuite 10/10A\nBrampton ON  L7A 1A5",
+                    "fax": "1 905 454-3192",
+                    "tel": "1 905 454-4758"
+                }
+            ],
+            "gender": "F"
+        }
+    ],
+    "meta": {
+        "offset": 0,
+        "total_count": 1,
+        "limit": 20,
+        "previous": null,
+        "next": null
+    }
+}
