@@ -1,0 +1,38 @@
+/*mainResult1 search feild - Start*/
+
+.mainResult1-enter {
+    width: 0px;
+    height: 0px;
+    transform: rotate(360deg);
+}
+
+.mainResult1-enter-done {
+    width: 142px;
+    height: 230px;
+    transition: transform 5s ease, width 5s ease, height 5s ease;
+}
+
+/*
+img {
+    animation: myfirst 5s linear 2s;
+  }
+  
+  @keyframes myfirst {
+    from { transform: none }
+    to { transform: rotate(360deg) }
+  }*/
+
+/*mainResult1 search feild - End*/
+
+/*mainResult2 search feild - Start*/
+
+.mainResult2-enter {
+    opacity: 0;
+}
+
+.mainResult2-enter-done {
+    opacity:1;
+    transition: opacity 5s ease 5s;
+}
+
+/*mainResult2 search feild - End*/
